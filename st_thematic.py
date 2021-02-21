@@ -21,15 +21,15 @@ st.set_page_config(
 #---------------------------------------------------------------------------------------------------Import data
 @st.cache
 def upload():
-    price = pd.read_csv('Thematic/to_upload/etf_wk.csv', index_col=0)
-    etfs = pd.read_csv('Thematic/to_upload/etf_ticker.csv', index_col=0)
-    holdings = pd.read_csv('Thematic/to_upload/holdings.csv', index_col=0)
-    underlyings = pd.read_csv('Thematic/to_upload/underlyings.csv', index_col=0)
-    ratios = pd.read_csv('Thematic/to_upload/ratios_ts_q.csv', index_col=0)
-    type = pd.read_csv('Thematic/to_upload/ratio_type.csv', index_col=0)
-    stock_price = pd.read_csv('Thematic/to_upload/price_wk.csv', index_col=0)
-    crisis = pd.read_csv('Thematic/to_upload/list_crisis.csv', index_col = 0)
-    return_periods = pd.read_csv('Thematic/to_upload/return_periods.csv', index_col = 0)
+    price = pd.read_csv('to_upload/etf_wk.csv', index_col=0)
+    etfs = pd.read_csv('to_upload/etf_ticker.csv', index_col=0)
+    holdings = pd.read_csv('to_upload/holdings.csv', index_col=0)
+    underlyings = pd.read_csv('to_upload/underlyings.csv', index_col=0)
+    ratios = pd.read_csv('to_upload/ratios_ts_q.csv', index_col=0)
+    type = pd.read_csv('to_upload/ratio_type.csv', index_col=0)
+    stock_price = pd.read_csv('to_upload/price_wk.csv', index_col=0)
+    crisis = pd.read_csv('to_upload/list_crisis.csv', index_col = 0)
+    return_periods = pd.read_csv('to_upload/return_periods.csv', index_col = 0)
 
     price['Date'] = pd.to_datetime(price['Date'])
     ratios['Date'] = pd.to_datetime(ratios['Date'])
