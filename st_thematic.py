@@ -529,7 +529,7 @@ ratio_points | (base.encode(y=alt.Y(val_r1, stack=None, title=None)).properties(
 
 
 #------------------------------------------------------------------------------- Portfolio construction
-st.write('------------------------------------------------')
+st.write('----')
 col_c1, col_c2 = st.beta_columns([4,1])
 with col_c1:
     """## :two: Screening thematic stocks"""
@@ -698,7 +698,9 @@ with st.beta_expander('Filter results ('+ str(len(underlying_filter)) + ')      
         else:
             st.info(str(len(ticker_added)) + ' is added to the portfolio, ' + str(len(select_display) - len(ticker_added)) + ' stocks already exist in the portfolio')
 
+st.markdown("<br>", unsafe_allow_html=True)
 #-------------------------------------------------------------------------------- Portfolio
+st.markdown("<br>", unsafe_allow_html=True)
 """## :three: Build and test the portfolio"""
 col_f1, col_f2, col_f3 = st.beta_columns([2,3,1])
 
