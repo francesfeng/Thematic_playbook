@@ -1,0 +1,5 @@
+streamlit==0.75.0
+numpy==1.19.5
+altair==4.1.0
+streamlit_vega_lite==0.1.0
+pandas==1.2.0
