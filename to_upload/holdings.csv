@@ -1,0 +1,974 @@
+,ETF Ticker,Weight,Ticker,Company
+0,ARKK,10.7919,TSLA,Tesla Inc
+1,ARKK,6.9391,ROKU,Roku Inc
+2,ARKK,5.5365,CRSP,CRISPR Therapeutics AG
+3,ARKK,5.2848,SQ,Square Inc
+4,ARKK,4.3971,TDOC,Teladoc Health Inc
+5,ARKK,4.1351,NVTA,Invitae Corp
+6,ARKK,3.0948,Z,Zillow Group Inc
+7,ARKK,2.8104,PSTG,Pure Storage Inc
+8,ARKK,2.7935,PRLB,Proto Labs Inc
+9,ARKK,2.7474,SPOT,Spotify Technology SA
+10,ARKK,2.6893,EDIT,Editas Medicine Inc
+11,ARKK,2.2686,IOVA,Iovance Biotherapeutics Inc
+12,ARKK,2.1939,TWLO,Twilio Inc
+13,ARKK,2.0888,BIDU,Baidu Inc
+14,ARKK,2.0346,EXAS,Exact Sciences Corp
+15,ARKK,2.0345,NTLA,Intellia Therapeutics Inc
+16,ARKK,2.0234,PYPL,PayPal Holdings Inc
+17,ARKK,1.9961,TWST,Twist Bioscience Corp
+18,ARKK,1.9556,SHOP,Shopify Inc
+19,ARKK,1.8992,DOCU,DocuSign Inc
+20,ARKK,1.899,TREE,LendingTree Inc
+21,ARKK,1.8449,MTLS,Materialise NV
+22,ARKK,1.826,TWOU,2U Inc
+23,ARKK,1.7843,PD,PagerDuty Inc
+24,ARKK,1.6953,ICE,Intercontinental Exchange Inc
+25,ARKK,1.6857,TSM,Taiwan Semiconductor Manufacturing Co Ltd
+26,ARKK,1.5132,BEKE,Ke Holdings Inc
+27,ARKK,1.3864,NTDOY,Nintendo Co Ltd
+28,ARKK,1.3841,VCYT,Veracyte Inc
+29,ARKK,1.3573,U,Unity Software Inc
+30,ARKK,1.3301,ZM,Zoom Video Communications Inc
+31,ARKK,1.1705,MCRB,Seres Therapeutics Inc
+32,ARKK,1.1105,PACB,Pacific Biosciences of California Inc
+33,ARKK,1.0682,TCEHY,Tencent Holdings Ltd
+34,ARKK,1.0526,IRDM,Iridium Communications Inc
+35,ARKK,1.0139,SPLK,Splunk Inc
+36,ARKK,0.9643,SNPS,Synopsys Inc
+37,ARKK,0.9619,SE,Sea Ltd
+38,ARKK,0.9169,NSTG,NanoString Technologies Inc
+39,ARKK,0.8304,PINS,Pinterest Inc
+40,ARKK,0.8276,SSYS,Stratasys Ltd
+41,ARKK,0.7474,CERS,Cerus Corp
+42,ARKK,0.7446,CGEN,Compugen Ltd
+43,ARKK,0.7053,HUYA,HUYA Inc
+44,ARKK,0.3108,SYRS,Syros Pharmaceuticals Inc
+45,ARKK,0.0675,,
+46,ARKK,0.0577,ONVO,Organovo Holdings Inc
+47,ARKK,0.0296,XONE,ExOne Co
+48,ARKW,10.1054,TSLA,Tesla Inc
+49,ARKW,6.1809,ROKU,Roku Inc
+50,ARKW,4.2587,SQ,Square Inc
+51,ARKW,3.7225,GBTC,Grayscale Bitcoin Trust (Btc)
+52,ARKW,3.5415,TDOC,Teladoc Health Inc
+53,ARKW,3.1562,SPOT,Spotify Technology SA
+54,ARKW,2.8943,PSTG,Pure Storage Inc
+55,ARKW,2.6388,TCEHY,Tencent Holdings Ltd
+56,ARKW,2.4936,FB,Facebook Inc
+57,ARKW,2.2439,SNAP,Snap Inc
+58,ARKW,2.1678,PYPL,PayPal Holdings Inc
+59,ARKW,2.1577,PINS,Pinterest Inc
+60,ARKW,2.1078,SE,Sea Ltd
+61,ARKW,2.0986,NFLX,Netflix Inc
+62,ARKW,1.9937,SHOP,Shopify Inc
+63,ARKW,1.9316,U,Unity Software Inc
+64,ARKW,1.9286,Z,Zillow Group Inc
+65,ARKW,1.9134,ICE,Intercontinental Exchange Inc
+66,ARKW,1.8878,FSLY,Fastly Inc
+67,ARKW,1.874,PD,PagerDuty Inc
+68,ARKW,1.8537,TREE,LendingTree Inc
+69,ARKW,1.8297,TWLO,Twilio Inc
+70,ARKW,1.6485,HUYA,HUYA Inc
+71,ARKW,1.5363,VCYT,Veracyte Inc
+72,ARKW,1.4909,BEKE,Ke Holdings Inc
+73,ARKW,1.4436,DOCU,DocuSign Inc
+74,ARKW,1.437,TWOU,2U Inc
+75,ARKW,1.424,MELI,Mercadolibre Inc
+76,ARKW,1.3225,NTDOY,Nintendo Co Ltd
+77,ARKW,1.2895,OPEN,Opendoor Technologies Inc
+78,ARKW,1.2702,PTON,Peloton Interactive Inc
+79,ARKW,1.2586,BABA,Alibaba Group Holding Ltd
+80,ARKW,1.2401,TTD,Trade Desk Inc
+81,ARKW,1.225,ZM,Zoom Video Communications Inc
+82,ARKW,1.1785,API,Agora Inc
+83,ARKW,1.1063,JD,JD.Com Inc
+84,ARKW,1.0777,HUBS,HubSpot Inc
+85,ARKW,1.0647,AAPL,Apple Inc
+86,ARKW,1.0454,NET,Cloudflare Inc
+87,ARKW,1.033,CRWD,CrowdStrike Holdings Inc
+88,ARKW,1.0313,SPLK,Splunk Inc
+89,ARKW,1.031,NVDA,NVIDIA Corp
+90,ARKW,1.0214,ADBE,Adobe Inc
+91,ARKW,0.993,ADYEY,Adyen NV
+92,ARKW,0.9734,TEAM,Atlassian Corporation PLC
+93,ARKW,0.9713,TSM,Taiwan Semiconductor Manufacturing Co Ltd
+94,ARKW,0.943,CRM,Salesforce.Com Inc
+95,ARKW,0.9275,LC,LendingClub Corp
+96,ARKW,0.8957,SNPS,Synopsys Inc
+97,ARKW,0.8822,OKTA,Okta Inc
+98,ARKW,0.7573,BIDU,Baidu Inc
+99,ARKW,0.6251,NNDM,Nano Dimension Ltd
+100,ARKW,0.5886,PLTR,Palantir Technologies Inc
+101,ARKW,0.2891,,
+102,ARKW,0.0005,SNOW,Snowflake Inc.
+103,KOMP,2.6487,VUZI,Vuzix Corp
+104,KOMP,2.1625,DDD,3D Systems Corp
+105,KOMP,1.797,NNDM,Nano Dimension Ltd
+106,KOMP,1.6566,SOL,ReneSola Ltd
+107,KOMP,1.651,BLNK,Blink Charging Co
+108,KOMP,1.4782,TSLA,Tesla Inc
+109,KOMP,1.3181,PLUG,Plug Power Inc
+110,KOMP,1.2672,RIOT,Riot Blockchain Inc
+111,KOMP,1.1207,GM,General Motors Co
+112,KOMP,1.0988,AMBA,Ambarella Inc
+113,KOMP,1.0052,FCEL,Fuelcell Energy Inc
+114,KOMP,0.9732,STM,STMicroelectronics NV
+115,KOMP,0.9359,BLDP,Ballard Power Systems Inc
+116,KOMP,0.8759,PACB,Pacific Biosciences of California Inc
+117,KOMP,0.853,VC,Visteon Corp
+118,KOMP,0.8304,UAVS,Ageagle Aerial Systems Inc
+119,KOMP,0.784,NIO,NIO Inc
+120,KOMP,0.73,ABB,Abb Ltd
+121,KOMP,0.7041,FOSL,Fossil Group Inc
+122,KOMP,0.6934,LEA,Lear Corp
+123,KOMP,0.6883,SPWR,SunPower Corp
+124,KOMP,0.6409,NVDA,NVIDIA Corp
+125,KOMP,0.6119,WKHS,Workhorse Group Inc
+126,KOMP,0.6085,BRKR,Bruker Corp
+127,KOMP,0.6028,MVIS,MicroVision Inc
+128,KOMP,0.597,YNDX,Yandex NV
+129,KOMP,0.5793,VNE,Veoneer Inc
+130,KOMP,0.57,MAXN,Maxeon Solar Technologies Ltd
+131,KOMP,0.5627,ORA,Ormat Technologies Inc
+132,KOMP,0.5558,LYFT,Lyft Inc
+133,KOMP,0.542,DQ,Daqo New Energy Corp
+134,KOMP,0.5342,TMO,Thermo Fisher Scientific Inc
+135,KOMP,0.5259,NIU,NIU Technologies
+136,KOMP,0.5202,GRMN,Garmin Ltd
+137,KOMP,0.5178,KLAC,KLA Corp
+138,KOMP,0.5178,STLA,Stellantis NV
+139,KOMP,0.5166,SEDG,Solaredge Technologies Inc
+140,KOMP,0.5119,BIDU,Baidu Inc
+141,KOMP,0.5055,MSFT,Microsoft Corp
+142,KOMP,0.5027,GOOG,Alphabet Inc
+143,KOMP,0.4986,FLIR,FLIR Systems Inc
+144,KOMP,0.4977,TM,Toyota Motor Corp
+145,KOMP,0.4964,ESLT,Elbit Systems Ltd
+146,KOMP,0.4948,AAPL,Apple Inc
+147,KOMP,0.4925,F,Ford Motor Co
+148,KOMP,0.4836,CAR,Avis Budget Group Inc
+149,KOMP,0.4803,APTV,Aptiv PLC
+150,KOMP,0.4748,HON,Honeywell International Inc
+151,KOMP,0.4701,BILI,Bilibili Inc
+152,KOMP,0.4678,FB,Facebook Inc
+153,KOMP,0.4649,SNAP,Snap Inc
+154,KOMP,0.4632,UBER,Uber Technologies Inc
+155,KOMP,0.4474,HY,Hyster-Yale Materials Handling Inc
+156,KOMP,0.4424,REZI,Resideo Technologies Inc
+157,KOMP,0.4405,TRMB,Trimble Inc
+158,KOMP,0.4279,VNT,Vontier Corp
+159,KOMP,0.4271,EGHT,8x8 Inc
+160,KOMP,0.4217,OSTK,Overstock.com Inc
+161,KOMP,0.4177,ON,ON Semiconductor Corp
+162,KOMP,0.4147,ANGO,AngioDynamics Inc
+163,KOMP,0.4135,NGVT,Ingevity Corp
+164,KOMP,0.4127,ALRM,Alarm.com Holdings Inc
+165,KOMP,0.4052,CHNG,Change Healthcare Inc
+166,KOMP,0.4024,AMSC,American Superconductor Corp
+167,KOMP,0.3994,PTC,PTC Inc
+168,KOMP,0.3955,AME,AMETEK Inc
+169,KOMP,0.3878,NXPI,NXP Semiconductors NV
+170,KOMP,0.3871,CSIQ,Canadian Solar Inc
+171,KOMP,0.3864,NTES,NetEase Inc
+172,KOMP,0.3856,TPIC,TPI Composites Inc
+173,KOMP,0.3816,NPTN,NeoPhotonics Corp
+174,KOMP,0.3814,ING,ING Groep NV
+175,KOMP,0.3792,BE,Bloom Energy Corp
+176,KOMP,0.3784,RTX,Raytheon Technologies Corp
+177,KOMP,0.3768,ENPH,Enphase Energy Inc
+178,KOMP,0.3695,ANSS,ANSYS Inc
+179,KOMP,0.3675,AYI,Acuity Brands Inc
+180,KOMP,0.3658,SE,Sea Ltd
+181,KOMP,0.3551,WORK,Slack Technologies Inc
+182,KOMP,0.3548,SSYS,Stratasys Ltd
+183,KOMP,0.3539,LMNX,Luminex Corp
+184,KOMP,0.3497,AY,Atlantica Sustainable Infrastructure PLC
+185,KOMP,0.3474,MASI,Masimo Corp
+186,KOMP,0.345,NOVA,Sunnova Energy International Inc
+187,KOMP,0.3447,XPER,Xperi Holding Corp
+188,KOMP,0.3407,IAC,IAC/Interactivecorp
+189,KOMP,0.34,LMT,Lockheed Martin Corp
+190,KOMP,0.3381,ADT,ADT Inc
+191,KOMP,0.3368,XONE,ExOne Co
+192,KOMP,0.3315,SLAB,Silicon Laboratories Inc
+193,KOMP,0.3307,SNN,Smith & Nephew PLC
+194,KOMP,0.33,QRVO,Qorvo Inc
+195,KOMP,0.3261,ADI,Analog Devices Inc
+196,KOMP,0.3245,SKM,SK Telecom Co Ltd
+197,KOMP,0.3229,AZRE,Azure Power Global Ltd
+198,KOMP,0.3177,SAN,Banco Santander SA
+199,KOMP,0.3166,JCI,Johnson Controls International PLC
+200,KOMP,0.316,FSLR,First Solar Inc
+201,KOMP,0.315,YELP,Yelp Inc
+202,KOMP,0.3115,RUN,Sunrun Inc
+203,KOMP,0.3108,TTM,Tata Motors Ltd
+204,KOMP,0.3106,SAP,SAP SE
+205,KOMP,0.3076,MDT,Medtronic PLC
+206,KOMP,0.3035,TME,Tencent Music Entertainment Group
+207,KOMP,0.3005,KTOS,Kratos Defense and Security Solutions Inc
+208,KOMP,0.2968,INTC,Intel Corp
+209,KOMP,0.2931,IBM,International Business Machines Corp
+210,KOMP,0.293,PAGS,PagSeguro Digital Ltd
+211,KOMP,0.2921,AVYA,Avaya Holdings Corp
+212,KOMP,0.2915,VRTU,Virtusa Corp
+213,KOMP,0.2897,OCFT,OneConnect Financial Technology Co Ltd
+214,KOMP,0.2888,RNG,RingCentral Inc
+215,KOMP,0.2888,WIT,Wipro Ltd
+216,KOMP,0.2858,BA,Boeing Co
+217,KOMP,0.2831,DHR,Danaher Corp
+218,KOMP,0.2826,AVAV,AeroVironment Inc
+219,KOMP,0.2815,CAMT,Camtek Ltd
+220,KOMP,0.2794,BR,Broadridge Financial Solutions Inc
+221,KOMP,0.2794,JKS,JinkoSolar Holding Co Ltd
+222,KOMP,0.2789,DAN,Dana Inc
+223,KOMP,0.2787,IX,Orix Corp
+224,KOMP,0.2768,CARR,Carrier Global Corp
+225,KOMP,0.2707,AXL,American Axle & Manufacturing Holdings Inc
+226,KOMP,0.2705,TWLO,Twilio Inc
+227,KOMP,0.2705,BLKB,Blackbaud Inc
+228,KOMP,0.2668,JMIA,Jumia Technologies AG
+229,KOMP,0.2658,PSN,Parsons Corp
+230,KOMP,0.2647,GE,General Electric Co
+231,KOMP,0.2644,THRM,Gentherm Inc
+232,KOMP,0.2632,TEAM,Atlassian Corporation PLC
+233,KOMP,0.2592,NKLA,Nikola Corporation
+234,KOMP,0.2591,ALLY,Ally Financial Inc
+235,KOMP,0.2572,ACA,Arcosa Inc
+236,KOMP,0.2532,CUB,Cubic Corp
+237,KOMP,0.252,LPRO,Open Lending Corp
+238,KOMP,0.2491,MT,ArcelorMittal SA
+239,KOMP,0.2464,BWA,Borgwarner Inc
+240,KOMP,0.2435,AMAT,Applied Materials Inc
+241,KOMP,0.2385,TWTR,Twitter Inc
+242,KOMP,0.2362,CSCO,Cisco Systems Inc
+243,KOMP,0.2351,ABT,Abbott Laboratories
+244,KOMP,0.2338,VVNT,Vivint Smart Home Inc
+245,KOMP,0.233,HMC,Honda Motor Co Ltd
+246,KOMP,0.2301,PHG,Koninklijke Philips NV
+247,KOMP,0.2298,TEL,TE Connectivity Ltd
+248,KOMP,0.2297,IMMR,Immersion Corp
+249,KOMP,0.2297,VG,Vonage Holdings Corp
+250,KOMP,0.2269,TDY,Teledyne Technologies Inc
+251,KOMP,0.2253,ZNGA,Zynga Inc
+252,KOMP,0.2241,VMI,Valmont Industries Inc
+253,KOMP,0.2231,IRTC,iRhythm Technologies Inc
+254,KOMP,0.2204,LOGN,Logitech International SA
+255,KOMP,0.2202,SYNA,Synaptics Inc
+256,KOMP,0.22,LX,Lexinfintech Holdings Ltd
+257,KOMP,0.2187,HIMX,Himax Technologies Inc
+258,KOMP,0.2177,ALSN,Allison Transmission Holdings Inc
+259,KOMP,0.2177,WB,Weibo Corp
+260,KOMP,0.2176,CMI,Cummins Inc
+261,KOMP,0.2174,LHX,L3harris Technologies Inc
+262,KOMP,0.2164,MU,Micron Technology Inc
+263,KOMP,0.216,ORBC,ORBCOMM Inc
+264,KOMP,0.2159,BSX,Boston Scientific Corp
+265,KOMP,0.2144,MTCH,Match Group Inc
+266,KOMP,0.2118,HMI,Huami Corp
+267,KOMP,0.2116,LC,LendingClub Corp
+268,KOMP,0.2109,RCIb,Rogers Communications Inc
+269,KOMP,0.2072,MTLS,Materialise NV
+270,KOMP,0.207,MELI,Mercadolibre Inc
+271,KOMP,0.207,CAMP,CalAmp Corp
+272,KOMP,0.2062,NOC,Northrop Grumman Corp
+273,KOMP,0.203,MOMO,Momo Inc
+274,KOMP,0.2024,RKT,Rocket Companies Inc
+275,KOMP,0.2009,GRVY,Gravity Co Ltd
+276,KOMP,0.2002,KNDI,Kandi Technologies Group Inc
+277,KOMP,0.2,ST,Sensata Technologies Holding PLC
+278,KOMP,0.1979,SANM,Sanmina Corp
+279,KOMP,0.1952,MOD,Modine Manufacturing Co
+280,KOMP,0.195,TXT,Textron Inc
+281,KOMP,0.195,IRBT,iRobot Corp
+282,KOMP,0.1944,HUN,Huntsman Corp
+283,KOMP,0.1941,MX,MagnaChip Semiconductor Corp
+284,KOMP,0.1935,GLUU,Glu Mobile Inc
+285,KOMP,0.1919,PYPL,PayPal Holdings Inc
+286,KOMP,0.1894,OESX,Orion Energy Systems Inc
+287,KOMP,0.189,PRLB,Proto Labs Inc
+288,KOMP,0.188,YY,JOYY Inc
+289,KOMP,0.1872,ACIW,ACI Worldwide Inc
+290,KOMP,0.1856,ITRI,Itron Inc
+291,KOMP,0.1825,,
+292,KOMP,0.1823,FOUR,Shift4 Payments Inc
+293,KOMP,0.1804,SHOP,Shopify Inc
+294,KOMP,0.1803,ZM,Zoom Video Communications Inc
+295,KOMP,0.1794,IIIV,I3 Verticals Inc
+296,KOMP,0.1788,TXN,Texas Instruments Inc
+297,KOMP,0.1776,AMD,Advanced Micro Devices Inc
+298,KOMP,0.1764,SQ,Square Inc
+299,KOMP,0.1758,UCTT,Ultra Clean Holdings Inc
+300,KOMP,0.1754,BMI,Badger Meter Inc
+301,KOMP,0.1745,HEI,HEICO Corp
+302,KOMP,0.1725,SLP,Simulations Plus Inc
+303,KOMP,0.1697,AQUA,Evoqua Water Technologies Corp
+304,KOMP,0.1667,DOYU,Douyu International Holdings Ltd
+305,KOMP,0.1658,PEN,Penumbra Inc
+306,KOMP,0.1649,IRDM,Iridium Communications Inc
+307,KOMP,0.1637,MTOR,Meritor Inc
+308,KOMP,0.1624,ATI,Allegheny Technologies Inc
+309,KOMP,0.1613,CRS,Carpenter Technology Corp
+310,KOMP,0.1594,ATVI,Activision Blizzard Inc
+311,KOMP,0.1592,XYL,Xylem Inc
+312,KOMP,0.1571,UEIC,Universal Electronics Inc
+313,KOMP,0.1566,SPCE,Virgin Galactic Holdings Inc
+314,KOMP,0.1555,GD,General Dynamics Corp
+315,KOMP,0.1551,HPQ,HP Inc
+316,KOMP,0.1545,RPAY,Repay Holdings Corp
+317,KOMP,0.153,SNE,Sony Corp
+318,KOMP,0.1525,NVEC,NVE Corp
+319,KOMP,0.1493,GILT,Gilat Satellite Networks Ltd
+320,KOMP,0.1488,MRCY,Mercury Systems Inc
+321,KOMP,0.1476,PNR,Pentair PLC
+322,KOMP,0.1466,FISV,Fiserv Inc
+323,KOMP,0.1452,SNCR,Synchronoss Technologies Inc
+324,KOMP,0.1447,FTI,TechnipFMC PLC
+325,KOMP,0.1438,MANT,ManTech International Corp
+326,KOMP,0.1432,BRKS,Brooks Automation Inc
+327,KOMP,0.1424,V,Visa Inc
+328,KOMP,0.1412,AYX,Alteryx Inc
+329,KOMP,0.1388,GDOT,Green Dot Corp
+330,KOMP,0.1374,NVEE,NV5 Global Inc
+331,KOMP,0.1365,GMED,Globus Medical Inc
+332,KOMP,0.1363,HQY,Healthequity Inc
+333,KOMP,0.1346,TER,Teradyne Inc
+334,KOMP,0.134,BP,BP PLC
+335,KOMP,0.134,SOHU,Sohu.com Ltd
+336,KOMP,0.1333,OMCL,Omnicell Inc
+337,KOMP,0.1323,JBT,John Bean Technologies Corp
+338,KOMP,0.1322,SU,Suncor Energy Inc
+339,KOMP,0.1321,B,Barnes Group Inc
+340,KOMP,0.1312,RDSa,Royal Dutch Shell PLC
+341,KOMP,0.1304,IQ,IQIYI Inc
+342,KOMP,0.1303,FIS,Fidelity National Information Services Inc
+343,KOMP,0.1289,IDT,IDT Corp
+344,KOMP,0.1288,ISRG,Intuitive Surgical Inc
+345,KOMP,0.1287,BABA,Alibaba Group Holding Ltd
+346,KOMP,0.1283,AES,AES Corp
+347,KOMP,0.1279,ENB,Enbridge Inc
+348,KOMP,0.1247,AXDX,Accelerate Diagnostics Inc
+349,KOMP,0.1222,ALE,ALLETE Inc
+350,KOMP,0.1216,QTWO,Q2 Holdings Inc
+351,KOMP,0.1202,AQN,Algonquin Power & Utilities Corp
+352,KOMP,0.1199,LECO,Lincoln Electric Holdings Inc
+353,KOMP,0.118,SYK,Stryker Corp
+354,KOMP,0.1168,NEE,Nextera Energy Inc
+355,KOMP,0.1141,CRL,Charles River Laboratories International Inc
+356,KOMP,0.1134,IBN,ICICI Bank Ltd
+357,KOMP,0.1108,NJR,New Jersey Resources Corp
+358,KOMP,0.1108,SCHW,Charles Schwab Corp
+359,KOMP,0.11,ENIA,Enel Americas SA
+360,KOMP,0.1097,AGR,Avangrid Inc
+361,KOMP,0.1093,AJRD,Aerojet Rocketdyne Holdings Inc
+362,KOMP,0.109,QD,Qudian Inc
+363,KOMP,0.109,KALU,Kaiser Aluminum Corp
+364,KOMP,0.1079,ALL,Allstate Corp
+365,KOMP,0.1071,TTEK,Tetra Tech Inc
+366,KOMP,0.1067,BLK,BlackRock Inc
+367,KOMP,0.1066,ELP,Companhia Paranaense de Energia
+368,KOMP,0.1052,MAXR,Maxar Technologies Inc
+369,KOMP,0.1039,VOD,Vodafone Group PLC
+370,KOMP,0.1028,ED,Consolidated Edison Inc
+371,KOMP,0.102,ADSK,Autodesk Inc
+372,KOMP,0.1019,RY,Royal Bank of Canada
+373,KOMP,0.1005,OII,Oceaneering International Inc
+374,KOMP,0.0998,MWA,Mueller Water Products Inc
+375,KOMP,0.0997,BSBR,Banco Santander Brasil SA
+376,KOMP,0.0996,HII,Huntington Ingalls Industries Inc
+377,KOMP,0.0988,LDOS,Leidos Holdings Inc
+378,KOMP,0.0983,KODK,Eastman Kodak Co
+379,KOMP,0.0973,VIR,Vir Biotechnology Inc
+380,KOMP,0.097,HXL,Hexcel Corp
+381,KOMP,0.0969,AGYS,Agilysys Inc
+382,KOMP,0.0969,MA,Mastercard Inc
+383,KOMP,0.0954,ROP,Roper Technologies Inc
+384,KOMP,0.0952,HUBB,Hubbell Inc
+385,KOMP,0.0947,GGAL,Grupo Financiero Galicia SA
+386,KOMP,0.0935,QIWI,Qiwi PLC
+387,KOMP,0.0907,RADA,Rada Electronic Industries Ltd
+388,KOMP,0.0903,EVOP,EVO Payments Inc
+389,KOMP,0.0898,PGR,Progressive Corp
+390,KOMP,0.0883,J,Jacobs Engineering Group Inc
+391,KOMP,0.0868,IPGP,IPG Photonics Corp
+392,KOMP,0.0863,LXFR,Luxfer Holdings PLC
+393,KOMP,0.085,A,Agilent Technologies Inc
+394,KOMP,0.085,CNMD,Conmed Corp
+395,KOMP,0.0848,MOGa,Moog Inc
+396,KOMP,0.0845,PKI,PerkinElmer Inc
+397,KOMP,0.0832,NGG,National Grid PLC
+398,KOMP,0.0816,OOMA,Ooma Inc
+399,KOMP,0.0816,NK,NantKwest Inc
+400,KOMP,0.0804,ARAY,Accuray Inc
+401,KOMP,0.0798,CACI,CACI International Inc
+402,KOMP,0.0785,OSIS,OSI Systems Inc
+403,KOMP,0.0778,CYBE,CyberOptics Corp
+404,KOMP,0.0777,ERII,Energy Recovery Inc
+405,KOMP,0.0767,FINV,FinVolution Group
+406,KOMP,0.0753,MTD,Mettler-Toledo International Inc
+407,KOMP,0.0752,VEC,Vectrus Inc
+408,KOMP,0.0746,MCK,Mckesson Corp
+409,KOMP,0.0712,GRFS,Grifols SA
+410,KOMP,0.0705,XNET,Xunlei Ltd
+411,KOMP,0.0704,DOV,Dover Corp
+412,KOMP,0.0679,ERJ,Embraer SA
+413,KOMP,0.0672,KRYS,Krystal Biotech Inc
+414,KOMP,0.0669,TNAV,Telenav Inc
+415,KOMP,0.0643,VCEL,Vericel Corp
+416,KOMP,0.0641,LGND,Ligand Pharmaceuticals Inc
+417,KOMP,0.064,TKC,Turkcell Iletisim Hizmetleri AS
+418,KOMP,0.0634,NTLA,Intellia Therapeutics Inc
+419,KOMP,0.0627,RBBN,Ribbon Communications Inc
+420,KOMP,0.0606,CRSP,CRISPR Therapeutics AG
+421,KOMP,0.0596,SXI,Standex International Corp
+422,KOMP,0.059,FEYE,FireEye Inc
+423,KOMP,0.0587,EDIT,Editas Medicine Inc
+424,KOMP,0.0586,VREX,Varex Imaging Corp
+425,KOMP,0.0582,DTIL,Precision BioSciences Inc
+426,KOMP,0.0581,CRWD,CrowdStrike Holdings Inc
+427,KOMP,0.0571,CYBR,Cyberark Software Ltd
+428,KOMP,0.057,CDXS,Codexis Inc
+429,KOMP,0.0562,ZIOP,ZIOPHARM Oncology Inc
+430,KOMP,0.0561,ORTX,Orchard Therapeutics PLC
+431,KOMP,0.056,TBIO,Translate Bio Inc
+432,KOMP,0.0557,DCO,Ducommun Inc
+433,KOMP,0.0557,PGEN,Precigen Inc
+434,KOMP,0.0554,AEGN,Aegion Corp
+435,KOMP,0.0553,SAIC,Science Applications International Corp
+436,KOMP,0.0543,QLYS,Qualys Inc
+437,KOMP,0.0539,PRSP,Perspecta Inc
+438,KOMP,0.0537,FIXX,Homology Medicines Inc
+439,KOMP,0.0537,PANW,Palo Alto Networks Inc
+440,KOMP,0.0536,CLLS,Cellectis SA
+441,KOMP,0.0534,TTMI,TTM Technologies Inc
+442,KOMP,0.0533,TDG,TransDigm Group Inc
+443,KOMP,0.0527,TWST,Twist Bioscience Corp
+444,KOMP,0.0524,ESE,ESCO Technologies Inc
+445,KOMP,0.0517,VRNS,Varonis Systems Inc
+446,KOMP,0.0516,VRNT,Verint Systems Inc
+447,KOMP,0.051,APH,Amphenol Corp
+448,KOMP,0.0506,ZS,Zscaler Inc
+449,KOMP,0.0504,FFIV,F5 Networks Inc
+450,KOMP,0.0498,FATE,Fate Therapeutics Inc
+451,KOMP,0.0494,SGMO,Sangamo Therapeutics Inc
+452,KOMP,0.0494,INO,Inovio Pharmaceuticals Inc
+453,KOMP,0.0489,NTCT,Netscout Systems Inc
+454,KOMP,0.0486,RPD,Rapid7 Inc
+455,KOMP,0.0486,VSAT,ViaSat Inc
+456,KOMP,0.0486,ALNY,Alnylam Pharmaceuticals Inc
+457,KOMP,0.0485,ATEN,A10 Networks Inc
+458,KOMP,0.0484,ALLO,Allogene Therapeutics Inc
+459,KOMP,0.0483,TENB,Tenable Holdings Inc
+460,KOMP,0.0482,ADAP,Adaptimmune Therapeutics PLC
+461,KOMP,0.0478,OSPN,OneSpan Inc
+462,KOMP,0.047,RARE,Ultragenyx Pharmaceutical Inc
+463,KOMP,0.0468,BWXT,BWX Technologies Inc
+464,KOMP,0.0468,PFPT,Proofpoint Inc
+465,KOMP,0.0461,LLNW,Limelight Networks Inc
+466,KOMP,0.0458,FTNT,Fortinet Inc
+467,KOMP,0.0457,BIIB,Biogen Inc
+468,KOMP,0.0449,CTLT,Catalent Inc
+469,KOMP,0.0449,KEP,Korea Electric Power Corp
+470,KOMP,0.0447,BLL,Ball Corp
+471,KOMP,0.0446,GFF,Griffon Corp
+472,KOMP,0.0444,JNPR,Juniper Networks Inc
+473,KOMP,0.0441,RDWR,Radware Ltd
+474,KOMP,0.0437,AVGO,Broadcom Inc
+475,KOMP,0.0435,IOVA,Iovance Biotherapeutics Inc
+476,KOMP,0.0429,BLUE,bluebird bio Inc
+477,KOMP,0.0428,RGNX,Regenxbio Inc
+478,KOMP,0.0423,DELL,Dell Technologies Inc
+479,KOMP,0.0423,GILD,Gilead Sciences Inc
+480,KOMP,0.0418,ADVM,Adverum Biotechnologies Inc
+481,KOMP,0.0418,CTVA,Corteva Inc
+482,KOMP,0.0415,ARWR,Arrowhead Pharmaceuticals Inc
+483,KOMP,0.0414,ASGN,ASGN Inc
+484,KOMP,0.0413,VHC,VirnetX Holding Corp
+485,KOMP,0.0407,XNCR,Xencor Inc
+486,KOMP,0.04,AKAM,Akamai Technologies Inc
+487,KOMP,0.0389,CHKP,Check Point Software Technologies Ltd
+488,KOMP,0.0389,ATNI,ATN International Inc
+489,KOMP,0.0386,DRNA,Dicerna Pharmaceuticals Inc
+490,KOMP,0.0382,IONS,Ionis Pharmaceuticals Inc
+491,KOMP,0.0374,MIME,Mimecast Ltd
+492,KOMP,0.0366,ATRA,Atara Biotherapeutics Inc
+493,KOMP,0.0351,NLOK,NortonLifeLock Inc
+494,KOMP,0.0346,FOLD,Amicus Therapeutics Inc
+495,KOMP,0.0346,RCKT,Rocket Pharmaceuticals Inc
+496,KOMP,0.0343,BMRN,Biomarin Pharmaceutical Inc
+497,KOMP,0.0339,TCRR,TCR2 Therapeutics Inc
+498,KOMP,0.0338,QURE,Uniqure NV
+499,KOMP,0.0336,AVRO,AVROBIO Inc
+500,KOMP,0.0333,FLXN,Flexion Therapeutics Inc
+501,KOMP,0.0324,TECH,Bio-Techne Corp
+502,KOMP,0.0317,VRTX,Vertex Pharmaceuticals Inc
+503,KOMP,0.031,NVS,Novartis AG
+504,KOMP,0.0285,REGN,Regeneron Pharmaceuticals Inc
+505,KOMP,0.0283,SNY,Sanofi SA
+506,KOMP,0.0278,BLI,Berkeley Lights Inc
+507,KOMP,0.0274,SGEN,Seagen Inc
+508,KOMP,0.026,SRPT,Sarepta Therapeutics Inc
+509,KOMP,0.0215,OPRT,Oportun Financial Corp
+510,KOMP,0.0177,ENIC,Enel Chile SA
+511,KOMP,0.0109,IDN,Intellicheck Inc
+512,ARKF,10.1829,SQ,Square Inc
+513,ARKF,4.586,MELI,Mercadolibre Inc
+514,ARKF,4.418,Z,Zillow Group Inc
+515,ARKF,4.1354,ICE,Intercontinental Exchange Inc
+516,ARKF,3.9708,TCEHY,Tencent Holdings Ltd
+517,ARKF,3.852,PINS,Pinterest Inc
+518,ARKF,3.7818,ADYEN,Adyen NV
+519,ARKF,3.7727,PYPL,PayPal Holdings Inc
+520,ARKF,3.6568,SE,Sea Ltd
+521,ARKF,2.9707,BABA,Alibaba Group Holding Ltd
+522,ARKF,2.7814,3690,Meituan
+523,ARKF,2.6645,AMZN,Amazon.com Inc
+524,ARKF,2.5622,TWLO,Twilio Inc
+525,ARKF,2.4248,TREE,LendingTree Inc
+526,ARKF,2.4237,SNAP,Snap Inc
+527,ARKF,2.3573,SI,Silvergate Capital Corp
+528,ARKF,2.3501,LSPD,Lightspeed POS Inc
+529,ARKF,2.2972,AAPL,Apple Inc
+530,ARKF,2.2813,DOCU,DocuSign Inc
+531,ARKF,2.0606,SHOP,Shopify Inc
+532,ARKF,2.0396,FB,Facebook Inc
+533,ARKF,2.008,WDAY,Workday Inc
+534,ARKF,1.9483,4689,Z Holdings Corp
+535,ARKF,1.9111,SPLK,Splunk Inc
+536,ARKF,1.8539,6060,ZhongAn Online P & C Insurance Co Ltd
+537,ARKF,1.7102,INTU,Intuit Inc
+538,ARKF,1.653,PDD,Pinduoduo Inc
+539,ARKF,1.4138,GWRE,Guidewire Software Inc
+540,ARKF,1.39,TSM,Taiwan Semiconductor Manufacturing Co Ltd
+541,ARKF,1.2993,SCHW,Charles Schwab Corp
+542,ARKF,1.2201,DSYJ,Discovery Ltd
+543,ARKF,1.2199,JD,JD.Com Inc
+544,ARKF,1.1499,OPEN,Opendoor Technologies Inc
+545,ARKF,1.1214,TCSq,TCS Group Holding PLC
+546,ARKF,1.07,BEKE,Ke Holdings Inc
+547,ARKF,1.0637,TDOC,Teladoc Health Inc
+548,ARKF,1.061,4477,Base Inc
+549,ARKF,1.0609,NVDA,NVIDIA Corp
+550,ARKF,1.0412,9923,Yeahka Ltd
+551,ARKF,1.0196,LC,LendingClub Corp
+552,ARKF,1.0129,HDB,HDFC Bank Ltd
+553,ARKF,0.8105,VRSK,Verisk Analytics Inc
+554,ARKF,0.4845,MKTX,Marketaxess Holdings Inc
+555,ARKF,0.1329,KSPIq,Kaspi.kz AO
+556,ARKF,0.0121,8473,SBI Holdings Inc
+557,ARKF,0.0069,6618,JD Health International Inc
+558,ARKF,0.0035,IBKR,Interactive Brokers Group Inc
+559,IBUY,5.0195,SFIX,Stitch Fix Inc
+560,IBUY,3.8252,QRTEA,Qurate Retail Inc
+561,IBUY,3.773,RVLV,Revolve Group Inc
+562,IBUY,3.1065,REAL,RealReal Inc
+563,IBUY,3.0125,LE,Lands End Inc
+564,IBUY,2.9174,IAC,IAC/Interactivecorp
+565,IBUY,2.9009,GRPN,Groupon Inc
+566,IBUY,2.8582,TRIP,Tripadvisor Inc
+567,IBUY,2.7713,LYFT,Lyft Inc
+568,IBUY,2.763,CHWY,Chewy Inc
+569,IBUY,2.6981,FLWS,1-800-Flowers.Com Inc
+570,IBUY,2.6594,ETSY,ETSY Inc
+571,IBUY,2.3624,OSTK,Overstock.com Inc
+572,IBUY,2.3618,CVNA,Carvana Co
+573,IBUY,2.2934,EXPE,Expedia Group Inc
+574,IBUY,2.2806,PETS,Petmed Express Inc
+575,IBUY,2.2712,JMIA,Jumia Technologies AG
+576,IBUY,2.2631,CHGG,Chegg Inc
+577,IBUY,2.2611,UBER,Uber Technologies Inc
+578,IBUY,2.2415,PTON,Peloton Interactive Inc
+579,IBUY,2.195,PYPL,PayPal Holdings Inc
+580,IBUY,2.1533,EBAY,eBay Inc
+581,IBUY,2.0638,BKNG,Booking Holdings Inc
+582,IBUY,1.9492,NFLX,Netflix Inc
+583,IBUY,1.8341,W,Wayfair Inc
+584,IBUY,1.7955,AMZN,Amazon.com Inc
+585,IBUY,1.7776,STMP,Stamps.Com Inc
+586,IBUY,1.7717,GRUB,GrubHub Inc
+587,IBUY,1.7604,BIGC,"Bigcommerce Holdings, Inc."
+588,IBUY,1.7481,SSTK,Shutterstock Inc
+589,IBUY,1.6466,CPRT,Copart Inc
+590,IBUY,1.643,VRM,Vroom Inc
+591,IBUY,1.2166,FTCH,Farfetch Ltd
+592,IBUY,1.0456,PDD,Pinduoduo Inc
+593,IBUY,1.0011,HFGG,Hellofresh SE
+594,IBUY,0.9954,MMYT,MakeMyTrip Ltd
+595,IBUY,0.9692,ZO1G,Zooplus AG
+596,IBUY,0.9392,MELI,Mercadolibre Inc
+597,IBUY,0.9165,SPOT,Spotify Technology SA
+598,IBUY,0.9019,FVRR,Fiverr International Ltd
+599,IBUY,0.8984,VIPS,Vipshop Holdings Ltd
+600,IBUY,0.8502,DHER,Delivery Hero SE
+601,IBUY,0.8469,DADA,Dada Nexus Ltd
+602,IBUY,0.7962,OCDO,Ocado Group PLC
+603,IBUY,0.7752,ZALG,Zalando SE
+604,IBUY,0.7719,CMPR,Cimpress PLC
+605,IBUY,0.7675,SHOP,Shopify Inc
+606,IBUY,0.7487,3092,ZOZO Inc
+607,IBUY,0.7258,TCOM,Trip.com Group Ltd
+608,IBUY,0.6923,ASOS,ASOS PLC
+609,IBUY,0.6914,4755,Rakuten Inc
+610,IBUY,0.6905,JD,JD.Com Inc
+611,IBUY,0.6844,TKWY,Just Eat Takeaway.com NV
+612,IBUY,0.6576,2678,Askul Corp
+613,IBUY,0.5975,BABA,Alibaba Group Holding Ltd
+614,IBUY,0.5939,AO,AO World PLC
+615,IBUY,0.5789,IQ,IQIYI Inc
+616,IBUY,0.5456,BEKE,Ke Holdings Inc
+617,IBUY,0.1551,,
+618,EMQQ,7.9547,0700,Tencent Holdings Ltd
+619,EMQQ,7.3299,PDD,Pinduoduo Inc
+620,EMQQ,6.7616,BABA,Alibaba Group Holding Ltd
+621,EMQQ,6.4501,3690,Meituan
+622,EMQQ,5.922,JD,JD.Com Inc
+623,EMQQ,5.5228,MELI,Mercadolibre Inc
+624,EMQQ,5.0102,NPNJn,Naspers Ltd
+625,EMQQ,4.2655,BIDU,Baidu Inc
+626,EMQQ,4.1324,PRX,Prosus NV
+627,EMQQ,4.075,NTES,NetEase Inc
+628,EMQQ,3.5699,BEKE,Ke Holdings Inc
+629,EMQQ,3.4059,LU,Lufax Holding Ltd
+630,EMQQ,3.197,035420,Naver Corp
+631,EMQQ,3.0119,SE,Sea Ltd
+632,EMQQ,1.9202,BILI,Bilibili Inc
+633,EMQQ,1.7422,DHER,Delivery Hero SE
+634,EMQQ,1.6592,YNDX,Yandex NV
+635,EMQQ,1.5492,035720,Kakao Corp
+636,EMQQ,1.1666,STNE,StoneCo Ltd
+637,EMQQ,1.1353,TCOM,Trip.com Group Ltd
+638,EMQQ,1.0705,MGLU3,Magazine Luiza SA
+639,EMQQ,1.0396,0241,Alibaba Health Information Technology Ltd
+640,EMQQ,0.9917,036570,NCSOFT Corp
+641,EMQQ,0.9657,0268,Kingdee International Software Group Co Ltd
+642,EMQQ,0.8678,KC,Kingsoft Cloud Holdings Ltd
+643,EMQQ,0.7571,PAGS,PagSeguro Digital Ltd
+644,EMQQ,0.7518,OZON,Ozon Holdings PLC
+645,EMQQ,0.739,DADA,Dada Nexus Ltd
+646,EMQQ,0.7227,VIPS,Vipshop Holdings Ltd
+647,EMQQ,0.6687,TME,Tencent Music Entertainment Group
+648,EMQQ,0.6221,OCFT,OneConnect Financial Technology Co Ltd
+649,EMQQ,0.5624,ATHM,Autohome Inc
+650,EMQQ,0.5404,3888,Kingsoft Corp Ltd
+651,EMQQ,0.5327,GSX,GSX Techedu Inc
+652,EMQQ,0.5305,ALEP,Allegro.eu SA
+653,EMQQ,0.5225,8083,China Youzan Ltd
+654,EMQQ,0.5075,1833,Ping An Healthcare and Technology Co Ltd
+655,EMQQ,0.4629,MAILRq,Mail ru Group Ltd
+656,EMQQ,0.4248,TCSq,TCS Group Holding PLC
+657,EMQQ,0.3514,INED,Info Edge (India) Ltd
+658,EMQQ,0.338,FUTU,Futu Holdings Ltd
+659,EMQQ,0.2861,IQ,IQIYI Inc
+660,EMQQ,0.2841,0772,China Literature Ltd
+661,EMQQ,0.2735,JMIA,Jumia Technologies AG
+662,EMQQ,0.2731,YY,JOYY Inc
+663,EMQQ,0.2696,BTOW3,B2W Companhia Digital
+664,EMQQ,0.2452,MCGJ,MultiChoice Group Ltd
+665,EMQQ,0.2393,JOBS,51job Inc
+666,EMQQ,0.2362,2013,Weimob Inc
+667,EMQQ,0.2361,YALA,Yalla Group Ltd
+668,EMQQ,0.2347,6060,ZhongAn Online P & C Insurance Co Ltd
+669,EMQQ,0.2317,VNET,21Vianet Group Inc
+670,EMQQ,0.2187,BZUN,Baozun Inc
+671,EMQQ,0.1861,MOMO,Momo Inc
+672,EMQQ,0.181,SINA,SINA Corp
+673,EMQQ,0.1369,1060,Alibaba Pictures Group Ltd
+674,EMQQ,0.1338,LWSA3,Locaweb Servicos de Internet SA
+675,EMQQ,0.1304,2982,HengTen Networks Group Ltd
+676,EMQQ,0.1283,9923,Yeahka Ltd
+677,EMQQ,0.1213,293490,Kakao Games Corp
+678,EMQQ,0.1149,MMYT,MakeMyTrip Ltd
+679,EMQQ,0.113,WB,Weibo Corp
+680,EMQQ,0.1099,035760,CJ ENM Co Ltd
+681,EMQQ,0.1039,8454,Momo Com Inc
+682,EMQQ,0.0972,078340,Com2uS Corp
+683,EMQQ,0.0939,0780,Tongcheng-Elong Holdings Ltd
+684,EMQQ,0.0885,DOYU,Douyu International Holdings Ltd
+685,EMQQ,0.08,QFIN,360 DigiTech Inc
+686,EMQQ,0.0754,ROUT,Route Mobile Ltd
+687,EMQQ,0.0738,LX,Lexinfintech Holdings Ltd
+688,EMQQ,0.0667,2400,XD Inc
+689,EMQQ,0.0666,HHR,HeadHunter Group PLC
+690,EMQQ,0.0665,SY,So-Young International Inc
+691,EMQQ,0.0653,1797,Koolearn Technology Holding Ltd
+692,EMQQ,0.0597,AFYA,Afya Ltd
+693,EMQQ,0.0588,2858,Yixin Group Ltd
+694,EMQQ,0.0543,1896,Maoyan Entertainment
+695,EMQQ,0.052,DESP,Despegar.com Corp
+696,EMQQ,0.046,181710,NHN Corp
+697,EMQQ,0.0444,CVCB3,CVC Brasil Operadora e Agencia de Viagens SA
+698,EMQQ,0.0433,QIWI,Qiwi PLC
+699,EMQQ,0.0431,SOGO,Sogou Inc
+700,EMQQ,0.0428,QTT,Qutoutiao Inc
+701,EMQQ,0.0388,069080,Webzen Inc
+702,EMQQ,0.0385,0777,Netdragon Websoft Holdings Ltd
+703,EMQQ,0.0369,SOMA3,Grupo de Moda SOMA SA
+704,EMQQ,0.0369,DUO,Fangdd Network Group Ltd
+705,EMQQ,0.0358,067160,AfreecaTV Co Ltd
+706,EMQQ,0.0349,1357,Meitu Inc
+707,EMQQ,0.0318,042000,Cafe24 Corp
+708,EMQQ,0.0272,DNK,Phoenix Tree Holdings Ltd
+709,EMQQ,0.0257,JUST,Just Dial Ltd
+710,EMQQ,0.0226,8044,PChome Online Inc
+711,EMQQ,0.0212,035600,KGInicis Co Ltd
+712,EMQQ,0.0198,YJ,Yunji Inc
+713,EMQQ,0.0195,BLCT,BlueCity Holdings Ltd
+714,ROBO,3.3104,DDD,3D Systems Corp
+715,ROBO,2.2484,SSYS,Stratasys Ltd
+716,ROBO,2.1369,IRBT,iRobot Corp
+717,ROBO,1.74,AVAV,AeroVironment Inc
+718,ROBO,1.734,VCRA,Vocera Communications Inc
+719,ROBO,1.7324,FLIR,FLIR Systems Inc
+720,ROBO,1.7142,2049,Hiwin Technologies Corp
+721,ROBO,1.6678,ILMN,Illumina Inc
+722,ROBO,1.49,MANH,Manhattan Associates Inc
+723,ROBO,1.4858,6861,Keyence Corp
+724,ROBO,1.4856,KRNG,Krones AG
+725,ROBO,1.478,6506,Yaskawa Electric Corp
+726,ROBO,1.4739,KARN,Kardex Holding AG
+727,ROBO,1.4734,CGNX,Cognex Corp
+728,ROBO,1.4572,6954,Fanuc Corp
+729,ROBO,1.4465,PRSMB,Blue Prism Group PLC
+730,ROBO,1.4451,IPGP,IPG Photonics Corp
+731,ROBO,1.4169,NOW,ServiceNow Inc
+732,ROBO,1.4138,098460,Kohyoung Technology Inc
+733,ROBO,1.4055,ZBRA,Zebra Technologies Corp
+734,ROBO,1.382,BRKS,Brooks Automation Inc
+735,ROBO,1.3748,ROK,Rockwell Automation Inc
+736,ROBO,1.3562,6645,Omron Corp
+737,ROBO,1.3342,6383,Daifuku Co Ltd
+738,ROBO,1.3147,MTLS,Materialise NV
+739,ROBO,1.3146,NVDA,NVIDIA Corp
+740,ROBO,1.3132,ISRG,Intuitive Surgical Inc
+741,ROBO,1.2847,6324,Harmonic Drive Systems Inc
+742,ROBO,1.2456,OCDO,Ocado Group PLC
+743,ROBO,1.2237,3443,Global Unichip Corp
+744,ROBO,1.1765,BEAT,BioTelemetry Inc
+745,ROBO,1.174,PTC,PTC Inc
+746,ROBO,1.1677,1590,Airtac International Group
+747,ROBO,1.1405,HOLI,Hollysys Automation Technologies Ltd
+748,ROBO,1.1147,DE,Deere & Co
+749,ROBO,1.1135,2308,Delta Electronics Inc
+750,ROBO,1.1001,SIEGn,Siemens AG
+751,ROBO,1.0987,RAVN,Raven Industries Inc
+752,ROBO,1.0986,JENGn,Jenoptik AG
+753,ROBO,1.0979,6841,Yokogawa Electric Corp
+754,ROBO,1.0949,DUEG,Duerr AG
+755,ROBO,1.0844,EKTAb,Elekta AB (publ)
+756,ROBO,1.0784,2395,Advantech Co Ltd
+757,ROBO,1.0698,ABBN,Abb Ltd
+758,ROBO,1.0669,CDNS,Cadence Design Systems Inc
+759,ROBO,1.0559,CGCBV,Cargotec Corp
+760,ROBO,1.0541,RSW,Renishaw PLC
+761,ROBO,1.0492,6268,Nabtesco Corp
+762,ROBO,1.0489,APTV,Aptiv PLC
+763,ROBO,1.0486,DAST,Dassault Systemes SE
+764,ROBO,1.0485,NUAN,Nuance Communications Inc
+765,ROBO,1.0455,OMCL,Omnicell Inc
+766,ROBO,1.0339,SCHN,Schneider Electric SE
+767,ROBO,1.0253,KGX,Kion Group AG
+768,ROBO,1.0191,FARO,FARO Technologies Inc
+769,ROBO,1.016,HEXAb,Hexagon AB
+770,ROBO,1.0138,6134,Fuji Corp (Aichi)
+771,ROBO,1.0128,TECN,Tecan Group AG
+772,ROBO,1.0127,TRMB,Trimble Inc
+773,ROBO,1.0104,6201,Toyota Industries Corp
+774,ROBO,1.0089,NOVT,Novanta Inc
+775,ROBO,1.0086,NATI,National Instruments Corp
+776,ROBO,0.9966,6503,Mitsubishi Electric Corp
+777,ROBO,0.9847,6622,Daihen Corp
+778,ROBO,0.9833,GMED,Globus Medical Inc
+779,ROBO,0.9776,6273,SMC Corp
+780,ROBO,0.9666,ADSK,Autodesk Inc
+781,ROBO,0.9617,AMBA,Ambarella Inc
+782,ROBO,0.9607,G1AG,GEA Group AG
+783,ROBO,0.96,QCOM,Qualcomm Inc
+784,ROBO,0.9595,ATA,ATS Automation Tooling Systems Inc
+785,ROBO,0.95,6481,THK Co Ltd
+786,ROBO,0.9471,TER,Teradyne Inc
+787,ROBO,0.9195,6436,Amano Corp
+788,ROBO,0.9138,MCHP,Microchip Technology Inc
+789,ROBO,0.8998,JBT,John Bean Technologies Corp
+790,ROBO,0.8802,TDY,Teledyne Technologies Inc
+791,ROBO,0.8648,NDSN,Nordson Corp
+792,ROBO,0.8212,6914,Optex Group Co Ltd
+793,ROBO,0.7333,LAZR,Luminar Technologies Inc
+794,ROBO,0.6864,6104,Shibaura Machine Co Ltd
+795,ROBO,0.4082,002230,Iflytek Co Ltd
+796,ROBO,0.2632,300124,Shenzhen Inovance Technology Co Ltd
+797,ROBO,0.2557,002008,Han's Laser Technology Industry Group Co Ltd
+798,ROBO,0.2043,300024,SIASUN Robot & Automation Co Ltd
+799,ROBO,0.1894,,
+800,SOXX,8.4685,INTC,Intel Corp
+801,SOXX,8.2748,AVGO,Broadcom Inc
+802,SOXX,7.8328,QCOM,Qualcomm Inc
+803,SOXX,7.5793,TXN,Texas Instruments Inc
+804,SOXX,7.1496,NVDA,NVIDIA Corp
+805,SOXX,4.6195,TSM,Taiwan Semiconductor Manufacturing Co Ltd
+806,SOXX,4.5041,MU,Micron Technology Inc
+807,SOXX,4.3231,AMAT,Applied Materials Inc
+808,SOXX,4.007,KLAC,KLA Corp
+809,SOXX,3.9431,LRCX,Lam Research Corp
+810,SOXX,3.9069,ADI,Analog Devices Inc
+811,SOXX,3.7475,ASML,ASML Holding NV
+812,SOXX,3.7358,NXPI,NXP Semiconductors NV
+813,SOXX,3.4087,AMD,Advanced Micro Devices Inc
+814,SOXX,3.2827,MCHP,Microchip Technology Inc
+815,SOXX,3.1944,MRVL,Marvell Technology Group Ltd
+816,SOXX,2.9646,XLNX,Xilinx Inc
+817,SOXX,2.6037,SWKS,Skyworks Solutions Inc
+818,SOXX,1.8053,QRVO,Qorvo Inc
+819,SOXX,1.7455,TER,Teradyne Inc
+820,SOXX,1.4841,MPWR,Monolithic Power Systems Inc
+821,SOXX,1.3137,ON,ON Semiconductor Corp
+822,SOXX,1.2303,ENTG,Entegris Inc
+823,SOXX,1.0331,CREE,Cree Inc
+824,SOXX,0.8139,IPHI,Inphi Corp
+825,SOXX,0.8073,MKSI,MKS Instruments Inc
+826,SOXX,0.5325,SLAB,Silicon Laboratories Inc
+827,SOXX,0.5181,BRKS,Brooks Automation Inc
+828,SOXX,0.5059,LSCC,Lattice Semiconductor Corp
+829,SOXX,0.3968,CCMP,CMC Materials Inc
+830,SOXX,0.2408,,
+831,WCLD,2.7904,NET,Cloudflare Inc
+832,WCLD,2.7614,CRWD,CrowdStrike Holdings Inc
+833,WCLD,2.7521,SPT,Sprout Social Inc
+834,WCLD,2.5324,WK,Workiva Inc
+835,WCLD,2.4499,BL,Blackline Inc
+836,WCLD,2.4048,ZEN,Zendesk Inc
+837,WCLD,2.4016,PD,PagerDuty Inc
+838,WCLD,2.3975,DOMO,Domo Inc
+839,WCLD,2.0883,ZS,Zscaler Inc
+840,WCLD,2.0875,WORK,Slack Technologies Inc
+841,WCLD,2.0787,RP,RealPage Inc
+842,WCLD,2.0593,TWLO,Twilio Inc
+843,WCLD,2.0487,SMAR,Smartsheet Inc
+844,WCLD,2.0474,ESTC,Elastic NV
+845,WCLD,2.041,TENB,Tenable Holdings Inc
+846,WCLD,2.0032,SQ,Square Inc
+847,WCLD,1.9812,PCTY,Paylocity Holding Corp
+848,WCLD,1.9725,TEAM,Atlassian Corporation PLC
+849,WCLD,1.9629,PLAN,Anaplan Inc
+850,WCLD,1.8991,PAYC,Paycom Software Inc
+851,WCLD,1.8936,FIVN,Five9 Inc
+852,WCLD,1.8817,HUBS,HubSpot Inc
+853,WCLD,1.8813,QTWO,Q2 Holdings Inc
+854,WCLD,1.8555,QLYS,Qualys Inc
+855,WCLD,1.8476,NEWR,New Relic Inc
+856,WCLD,1.8433,RNG,RingCentral Inc
+857,WCLD,1.8202,MDLA,Medallia Inc
+858,WCLD,1.8118,ZM,Zoom Video Communications Inc
+859,WCLD,1.8098,FSLY,Fastly Inc
+860,WCLD,1.7958,BILL,Bill.com Holdings Inc
+861,WCLD,1.7952,ZUO,Zuora Inc
+862,WCLD,1.7527,OKTA,Okta Inc
+863,WCLD,1.743,NOW,ServiceNow Inc
+864,WCLD,1.7411,AVLR,Avalara Inc
+865,WCLD,1.7171,PYPL,PayPal Holdings Inc
+866,WCLD,1.6816,DDOG,Datadog Inc
+867,WCLD,1.6701,PFPT,Proofpoint Inc
+868,WCLD,1.6655,WDAY,Workday Inc
+869,WCLD,1.5983,DOCU,DocuSign Inc
+870,WCLD,1.5846,DBX,Dropbox Inc
+871,WCLD,1.5388,SVMK,SVMK Inc
+872,WCLD,1.5301,CRM,Salesforce.Com Inc
+873,WCLD,1.5274,SHOP,Shopify Inc
+874,WCLD,1.5264,TWOU,2U Inc
+875,WCLD,1.4733,VEEV,Veeva Systems Inc
+876,WCLD,1.4508,COUP,Coupa Software Inc
+877,WCLD,1.4479,PS,Pluralsight Inc
+878,WCLD,1.4007,ADBE,Adobe Inc
+879,WCLD,1.3744,BOX,Box Inc
+880,WCLD,1.3729,EVBG,Everbridge Inc
+881,WCLD,1.3623,YEXT,Yext Inc
+882,WCLD,1.3141,APPF,Appfolio Inc
+883,WCLD,1.3076,MIME,Mimecast Ltd
+884,WCLD,1.2236,WIX,Wix.Com Ltd
+885,PNQI,8.0549,AMZN,Amazon.com Inc
+886,PNQI,7.7968,GOOG,Alphabet Inc
+887,PNQI,7.7274,FB,Facebook Inc
+888,PNQI,7.6576,ADBE,Adobe Inc
+889,PNQI,6.9239,BABA,Alibaba Group Holding Ltd
+890,PNQI,4.317,NFLX,Netflix Inc
+891,PNQI,4.0669,SHOP,Shopify Inc
+892,PNQI,3.5467,CRM,Salesforce.Com Inc
+893,PNQI,3.3276,BKNG,Booking Holdings Inc
+894,PNQI,3.2816,UBER,Uber Technologies Inc
+895,PNQI,3.0448,MELI,Mercadolibre Inc
+896,PNQI,2.7945,JD,JD.Com Inc
+897,PNQI,2.3966,ZM,Zoom Video Communications Inc
+898,PNQI,2.2553,SNAP,Snap Inc
+899,PNQI,2.1787,BIDU,Baidu Inc
+900,PNQI,2.116,SPOT,Spotify Technology SA
+901,PNQI,2.0408,SE,Sea Ltd
+902,PNQI,1.5712,TWTR,Twitter Inc
+903,PNQI,1.5016,DOCU,DocuSign Inc
+904,PNQI,1.3296,CSGP,CoStar Group Inc
+905,PNQI,1.3202,ROKU,Roku Inc
+906,PNQI,1.2637,EBAY,eBay Inc
+907,PNQI,1.1437,NTES,NetEase Inc
+908,PNQI,1.1127,OKTA,Okta Inc
+909,PNQI,1.0574,TDOC,Teladoc Health Inc
+910,PNQI,0.9009,VRSN,Verisign Inc
+911,PNQI,0.8518,COUP,Coupa Software Inc
+912,PNQI,0.8185,ETSY,ETSY Inc
+913,PNQI,0.8038,YNDX,Yandex NV
+914,PNQI,0.7856,Z,Zillow Group Inc
+915,PNQI,0.6567,EXPE,Expedia Group Inc
+916,PNQI,0.6435,TCOM,Trip.com Group Ltd
+917,PNQI,0.6235,AKAM,Akamai Technologies Inc
+918,PNQI,0.6171,CVNA,Carvana Co
+919,PNQI,0.5998,W,Wayfair Inc
+920,PNQI,0.5534,LYFT,Lyft Inc
+921,PNQI,0.5081,GDDY,GoDaddy Inc
+922,PNQI,0.5074,WIX,Wix.Com Ltd
+923,PNQI,0.4984,VIPS,Vipshop Holdings Ltd
+924,PNQI,0.4518,OTEX,Open Text Corp
+925,PNQI,0.4245,CHGG,Chegg Inc
+926,PNQI,0.4198,FIVN,Five9 Inc
+927,PNQI,0.4075,PCTY,Paylocity Holding Corp
+928,PNQI,0.3665,PLAN,Anaplan Inc
+929,PNQI,0.3095,CHWY,Chewy Inc
+930,PNQI,0.2563,RDFN,Redfin Corp
+931,PNQI,0.2557,DBX,Dropbox Inc
+932,PNQI,0.2513,GRUB,GrubHub Inc
+933,PNQI,0.2233,ATHM,Autohome Inc
+934,PNQI,0.2017,IQ,IQIYI Inc
+935,PNQI,0.1854,ALRM,Alarm.com Holdings Inc
+936,PNQI,0.1635,YY,JOYY Inc
+937,PNQI,0.1626,JCOM,j2 Global Inc
+938,PNQI,0.162,ENV,Envestnet Inc
+939,PNQI,0.1519,LPSN,LivePerson Inc
+940,PNQI,0.1455,NEWR,New Relic Inc
+941,PNQI,0.14,SPSC,SPS Commerce Inc
+942,PNQI,0.1326,SVMK,SVMK Inc
+943,PNQI,0.1305,STMP,Stamps.Com Inc
+944,PNQI,0.13,SFIX,Stitch Fix Inc
+945,PNQI,0.1278,TRIP,Tripadvisor Inc
+946,PNQI,0.1115,WB,Weibo Corp
+947,PNQI,0.1052,TWOU,2U Inc
+948,PNQI,0.1039,CSOD,Cornerstone OnDemand Inc
+949,PNQI,0.1031,BOX,Box Inc
+950,PNQI,0.0948,SSTK,Shutterstock Inc
+951,PNQI,0.0924,SINA,SINA Corp
+952,PNQI,0.0915,PS,Pluralsight Inc
+953,PNQI,0.0882,YELP,Yelp Inc
+954,PNQI,0.0833,CMPR,Cimpress PLC
+955,PNQI,0.0829,MOMO,Momo Inc
+956,PNQI,0.0804,PRO,Pros Holdings Inc
+957,PNQI,0.0748,OSTK,Overstock.com Inc
+958,PNQI,0.0685,MMYT,MakeMyTrip Ltd
+959,PNQI,0.0632,EGOV,NIC Inc
+960,PNQI,0.0602,BZUN,Baozun Inc
+961,PNQI,0.0488,EIGI,Endurance International Group Holdings Inc
+962,PNQI,0.0451,EB,Eventbrite Inc
+963,PNQI,0.0449,CRTO,Criteo SA
+964,PNQI,0.0344,FLWS,1-800-Flowers.Com Inc
+965,PNQI,0.0278,CARS,Cars.com Inc
+966,PNQI,0.0267,BCOV,Brightcove Inc
+967,PNQI,0.0257,LE,Lands End Inc
+968,PNQI,0.0237,PETS,Petmed Express Inc
+969,PNQI,0.0233,SOHU,Sohu.com Ltd
+970,PNQI,0.0203,,
+971,PNQI,0.017,BNFT,Benefitfocus Inc
+972,PNQI,0.0133,EGAN,eGain Corp
