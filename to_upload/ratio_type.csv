@@ -1,0 +1,55 @@
+,Type,Short Name
+0,Profitability,ROE
+10663,Profitability,ROA
+21696,Profitability,ROIC
+28403,Earnings Power,Asset Turnover
+39322,Earnings Power,Reinvestment Rate
+47915,Valuation,FCF Yield
+58264,Valuation by Price,Price/Book
+69109,Valuation by Price,Price/Sales
+80210,Valuation by Price,PE
+88147,Valuation,PEG
+95577,Valuation by EV,EV/Revenue
+106669,Valuation by EV,EV/EBITDA
+114902,Valuation by EV,EV/FCF
+121879,Profit Margins,Gross Profit Margin
+133148,Profit Margins,EBITDA Margin
+144311,Profit Margins,Net Profit Margin
+156415,Financial Strength,Debt/Assets
+166398,Financial Strength,Debt/Equity
+176051,Financial Strength,Interest Coverage Ratio
+184672,Financial Strength,Dividend Coverage Ratio
+188222,Earnings Power,Earnings Retention Rate
+194572,Earnings Power,Dividend Payout Ratio
+200922,Liquidity,Current Ratio
+212227,Liquidity,Quick Ratio
+219787,Liquidity,Working Capital/Assets
+231092,-,Revenue
+245254,-,Operating Profit
+259512,-,EPS
+273708,-,EBITDA
+286865,Size,Market Cap
+299103,Growth,Revenue Q/Q
+312544,Growth,Operating Profit Q/Q
+326166,Growth,EPS Q/Q
+339788,Growth,EBITDA Q/Q
+353364,Growth,Revenue Y/Y
+365593,Growth,Operating Profit Y/Y
+377905,Growth,EPS Y/Y
+390217,Growth,EBITDA Y/Y
+402487,Risk Adj Return,1Y Risk Adj Return (%)
+416312,Risk Adj Return,3Y Risk Adj Return (%)
+428499,Risk Adj Return,5Y Risk Adj Return (%)
+439405,Risk Adj Return,10Y Risk Adj Return (%)
+448039,Return,1Y (%)
+461894,Return,3Y (%)
+474115,Return,5Y (%)
+485050,Return,10Y (%)
+493712,Return,1Y Annualised (%)
+507567,Return,3Y Annualised (%)
+519788,Return,5Y Annualised (%)
+530723,Return,10Y Annualised (%)
+539385,Volatility,1Y Volatility
+553235,Volatility,3Y Volatility
+565447,Volatility,5Y Volatility
+576378,Volatility,10Y Volatility
