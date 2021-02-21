@@ -699,7 +699,6 @@ with st.beta_expander('Filter results ('+ str(len(underlying_filter)) + ')      
             st.info(str(len(ticker_added)) + ' is added to the portfolio, ' + str(len(select_display) - len(ticker_added)) + ' stocks already exist in the portfolio')
 
 st.markdown("<br>", unsafe_allow_html=True)
-st.markdown("<br>", unsafe_allow_html=True)
 #-------------------------------------------------------------------------------- Portfolio
 st.markdown("<br>", unsafe_allow_html=True)
 """## :three: Build and test the portfolio"""
