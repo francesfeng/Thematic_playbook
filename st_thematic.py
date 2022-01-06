@@ -580,7 +580,7 @@ idx = {}
 filter_graph = {}
 filter_data = {}
 
-for i in range(1, val_c2+1):
+for i in range(1, int(val_c2)+1):
     col1, col2, col3 = st.columns([1,2,2])
     filter_item = col1.selectbox(
             'Filter:',
