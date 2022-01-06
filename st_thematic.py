@@ -261,7 +261,7 @@ st.markdown("<br>", unsafe_allow_html=True)
 """
 # :sparkles:Thematic Playbook: [![Follow](https://img.shields.io/twitter/follow/InvestCoLab?style=for-the-badge)](https://twitter.com/InvestCoLab)
 """
-with st.beta_expander("Analyse popular thematic ETFs; explore alternative ways of building thematic portfolios.   👉 show more"):
+with st.expander("Analyse popular thematic ETFs; explore alternative ways of building thematic portfolios.   👉 show more"):
 
     st.markdown("<br>", unsafe_allow_html=True)
     """
@@ -299,7 +299,7 @@ st.write('-------------------------------------------')
 """
 ## :one:-a. ETFs' Holdings
 """
-col_h1, col_h2 = st.beta_columns(2)
+col_h1, col_h2 = st.columns(2)
 val_h1 = col_h1.multiselect(
     'Selec ETFs: (slick empty space in the graph to restore to default)',
     etfs['Field'].tolist(),
@@ -315,7 +315,7 @@ holding_select_ticker = etfs.loc[etfs['Field'].isin(val_h1), 'Ticker']
 holding_select_map = pd.merge(holdings.loc[holdings['ETF Ticker'].isin(holding_select_ticker)].iloc[:,:-1],
                 underlyings, how='left', on='Ticker')
 holding_select_map = holding_select_map[~holding_select_map['Ticker'].isna()]
-col_hh1, col_hh2 = st.beta_columns(2)
+col_hh1, col_hh2 = st.columns(2)
 
 with col_hh1:
     selector3 = alt.selection_single(encodings=['x','color'], empty='all')
@@ -369,7 +369,7 @@ val_s1 = st.multiselect(
     [full_list['Field'].iloc[0],full_list['Field'].iloc[10]]
     )
 
-col_p1, col_p2, col_p3, col_p4 = st.beta_columns([1,1,1,3])
+col_p1, col_p2, col_p3, col_p4 = st.columns([1,1,1,3])
 
 val_p3 = col_p1.select_slider(
     'As of:',
@@ -451,7 +451,7 @@ timeseries = alt.Chart(price_select_norm).mark_line().encode(
 points + alt.layer(base, polynomial_fit)| timeseries
 #--------------------------------------------------------------------------------- Fundamental 2 Calc
 
-col_r0, col_r1, col_r2, col_r3, col_r4 = st.beta_columns(5)
+col_r0, col_r1, col_r2, col_r3, col_r4 = st.columns(5)
 
 val_r0 = col_r0.select_slider(
     'As of:',
@@ -530,7 +530,7 @@ ratio_points | (base.encode(y=alt.Y(val_r1, stack=None, title=None)).properties(
 
 #------------------------------------------------------------------------------- Portfolio construction
 st.write('----')
-col_c1, col_c2 = st.beta_columns([4,1])
+col_c1, col_c2 = st.columns([4,1])
 with col_c1:
     """## :two: Screening thematic stocks"""
 with col_c2:
@@ -581,7 +581,7 @@ filter_graph = {}
 filter_data = {}
 
 for i in range(1, val_c2+1):
-    col1, col2, col3 = st.beta_columns([1,2,2])
+    col1, col2, col3 = st.columns([1,2,2])
     filter_item = col1.selectbox(
             'Filter:',
             np.append(color_list, ratio_list),
@@ -657,9 +657,9 @@ def scatter_brush(data, y, x):
 
     return text_base
 
-with st.beta_expander('Filter results ('+ str(len(underlying_filter)) + ')        👉  click ➕/➖ to show or hide the filter results', expanded=True):
-    col_x1, col_x2 = st.beta_columns(2)
-    col_x1, col_x3, col_x4 = st.beta_columns([2,1,1])
+with st.expander('Filter results ('+ str(len(underlying_filter)) + ')        👉  click ➕/➖ to show or hide the filter results', expanded=True):
+    col_x1, col_x2 = st.columns(2)
+    col_x1, col_x3, col_x4 = st.columns([2,1,1])
     col_x1.subheader('')
     add_placeholder = col_x1.empty()
     val_x3 = col_x3.selectbox(
@@ -673,7 +673,7 @@ with st.beta_expander('Filter results ('+ str(len(underlying_filter)) + ')      
         1
     )
 
-    col_l1, col_l2 = st.beta_columns(2)
+    col_l1, col_l2 = st.columns(2)
 
     with col_l2:
         s_select = altair_component(scatter_brush(underlying_filter[['Ticker', 'Company', val_x3, val_x4]], val_x3, val_x4))
@@ -702,7 +702,7 @@ st.markdown("<br>", unsafe_allow_html=True)
 #-------------------------------------------------------------------------------- Portfolio
 st.markdown("<br>", unsafe_allow_html=True)
 """## :three: Build and test the portfolio"""
-col_f1, col_f2, col_f3 = st.beta_columns([2,3,1])
+col_f1, col_f2, col_f3 = st.columns([2,3,1])
 
 val_f1 = col_f1.text_input('Portfolio name:', port.name)
 port.name = val_f1
@@ -718,7 +718,7 @@ if col_f3.button('Add to portfolio'):
     st.info(str(len(ticker_added)) + 'has been added')
 
 port_empty = False
-col_d1, col_d2, col_d3 = st.beta_columns(3)
+col_d1, col_d2, col_d3 = st.columns(3)
 placeholder_d1 = col_d1.empty()
 placeholder_d2 = col_d2.empty()
 placeholder_d3 = col_d3.empty()
@@ -767,8 +767,8 @@ if port_empty:
 
         #------------------------------------------------------------------------- Portfolio performance
 if len(port.tickers) > 0:
-    with st.beta_container():
-        col_s1, col_s2, col_s3 , col_s4, col_s5 = st.beta_columns([2,1,1,1,2])
+    with st.container():
+        col_s1, col_s2, col_s3 , col_s4, col_s5 = st.columns([2,1,1,1,2])
         val_s1 = col_s1.radio(
                 'Periods:',
                 np.append('Customise period', crisis.index)
@@ -824,7 +824,7 @@ if len(port.tickers) > 0:
             #---------------------------------------------------------------------- annualised
         st.write('----------')
         port_annualised, current, beg, current_day, beg_day = annualised_cal(perf, 'Price')
-        col_a0, col_a1, col_a2 = st.beta_columns(3)
+        col_a0, col_a1, col_a2 = st.columns(3)
         year_map = pd.DataFrame({'Period Num': [current-3, current-5, current-10, beg ],
                                         'Year count': [3, 5, 10, current - beg],
                                         'Date Num': [current_day - DateOffset(years=3), current_day - DateOffset(years=5), current_day - DateOffset(years=10), beg_day]},
@@ -860,7 +860,7 @@ if len(port.tickers) > 0:
 
 
         st.write('----------')
-        col_w1, col_w2, col_w3 = st.beta_columns(3)
+        col_w1, col_w2, col_w3 = st.columns(3)
         col_w1.write('')
         col_w1.subheader('Max drawdowns')
         year_slider_drawdown = col_w2.select_slider(
