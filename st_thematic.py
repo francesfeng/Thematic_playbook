@@ -856,7 +856,7 @@ if len(port.tickers) > 0:
                                     width = 1000/year_map.loc[year_slider, 'Year count']
                                 )
 
-        st.altair_chart(port_year_bar, use_container_width=True)
+        st.altair_chart(port_year_bar)
 
 
         st.write('----------')
